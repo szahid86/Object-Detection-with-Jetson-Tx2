@@ -4,7 +4,7 @@ This repository present method to implement deep learning based object detection
 ## Contents
 1. [Environment](#environment)
 2. [Build YOLO](#build-yolo)
-3. [Run Detector](#run detector)
+3. [Run Detector](#run-detector)
 4. [Results](#results)
 
 
